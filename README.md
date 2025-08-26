@@ -8,7 +8,7 @@
 
 ## 설치
 
-### fisher 사용 (권장)
+### fisher 사용
 
 ```bash
 fisher install jacegem/fish-kor2eng
@@ -36,9 +36,8 @@ echo "source ~/.config/fish/plugins/fish-kor2eng/fish_kor2eng.fish" >> ~/.config
 | 한글 입력 | 영어 변환 | 의미               |
 | --------- | --------- | ------------------ |
 | `ㅣㄴ`    | `ls`      | 파일 목록 보기     |
-| `ㄱㅣㅅ`  | `git`     | git 명령어         |
-| `ㅈㅏㅁ`  | `pwd`     | 현재 디렉토리 경로 |
-| `ㄷㅣㄹ`  | `dir`     | 디렉토리 목록      |
+| `햣`      | `git`     | git 명령어         |
+| `ㅔㅈㅇ`  | `pwd`     | 현재 디렉토리 경로 |
 
 ### 자판 매핑
 
